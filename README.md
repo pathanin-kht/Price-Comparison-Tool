@@ -18,6 +18,8 @@ Currently, this tool supports **only the Thai language**. Future versions may in
 3. Optionally, you can enter a discount percentage for each item to calculate the price after the discount.
 4. Click the "เปรียบเทียบ" (Compare) button to see the results, which will show which item is the cheapest per unit and how much cheaper it is compared to others
 
+## Example
+![TestCase](TestCase.png)
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
