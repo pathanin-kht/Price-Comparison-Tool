@@ -9,7 +9,7 @@ This project is a web-based tool to help users compare prices when shopping. By 
 - Displays results indicating which item is the cheapest per unit and how much cheaper it is compared to others.
 
 ## Language Support
-Currently, this tool supports **only the Thai language**. All the instructions and interface elements are displayed in Thai. Future versions may include multi-language support.
+Currently, this tool supports **only the Thai language**. Future versions may include multi-language support.
 
 ## How to use
 1. Input the price and quantity for each item you want to compare.
